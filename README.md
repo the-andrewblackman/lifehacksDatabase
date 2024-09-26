@@ -1,0 +1,2 @@
+# LifeHacksDatabase
+ hacks for life
